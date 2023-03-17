@@ -3,6 +3,7 @@ My neovim configuration
 
 How to install on Mac OS:
 1.  clone in ~/.config
+
     How it should looks like ~/.config/nvim
 
 2.  Install packer.nvim - https://github.com/wbthomason/packer.nvim
