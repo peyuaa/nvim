@@ -8,4 +8,6 @@ How to install on Mac OS:
 
 2.  Install packer.nvim - https://github.com/wbthomason/packer.nvim
 
-3.  Open nvim and run :PackerSync
+3. :so necessary files (I guess it's init.lua, lua/peyuaa/init.lua and lua/peyuaa/packer.lua)
+
+4.  Open nvim and run :PackerSync
